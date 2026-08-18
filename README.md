@@ -50,7 +50,4 @@ To train in the CIL scenario with entropy, set the variable <code>dataset</code>
 
 ## License
 
-Copyright 2024 IDEAS NCBR <https://ideas-ncbr.pl/en/> and Group of Machine Learning Research (GMUM), Faculty of Mathematics and Computer Science of Jagiellonian University <https://gmum.net/>.
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
